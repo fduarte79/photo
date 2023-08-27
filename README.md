@@ -1,7 +1,12 @@
 # Fotografia  
 
-[Introdução](introducao.md)  
+[Introdução](intro/intro.md)  
+
+---
+
 [Cameras e lentes de entrada](entrada.md)  
+
+---
 
 | Modelo           | Sensor                  | Processador | Resolução | Lentes compativeis |  ISO     | Faixa dinâmica | RAW | redução de ruído de longa exposição | disparador remoto | bateria | Video |
 |:-----------------|:------------------------|:------------|:----------|:-------------------|:---------|:---------------|:----|:------------------------------------|:------------------|:--------|:------|
