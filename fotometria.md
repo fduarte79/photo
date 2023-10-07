@@ -15,6 +15,10 @@ Fotometria é um recurso de mensuração da quantidade de luz queo incide sobre 
 
 ### Histograma
 + Gráfico que mostra a intensidade da luzes na foto;
-+ Qunato mais a esquerda, mais escuro;
-+ Quanto mais a direita, mais claro;
++ 0 (preto) ~ 85 = tons escuros;
++ 85 ~ 170 = tons intermediário
++ 170 ~ 256 (branco) = tons claro
++ Quanto mais a esquerda, tons mais escuro;
++ No centro, tons médios;
++ Quanto mais a direita, tons mais claro;
 + Deve-se evitar fotos com histogramas muito claro ou muito escuras;
