@@ -7,3 +7,8 @@ Fotometria é um recurso de mensuração da quantidade de luz queo incide sobre 
 
 #### Configuração  
 + Na Canon Rebel T7, procure pelo botão de controle rápido (Q)
+
+### Tipos de luz
++ Natural
++ Contínua
++ Flash
