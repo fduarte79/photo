@@ -12,3 +12,9 @@ Fotometria é um recurso de mensuração da quantidade de luz queo incide sobre 
 + Natural
 + Contínua
 + Flash
+
+### Histograma
++ Gráfico que mostra a intensidade da luzes na foto;
++ Qunato mais a esquerda, mais escuro;
++ Quanto mais a direita, mais claro;
++ Deve-se evitar fotos com histogramas muito claro ou muito escuras;
