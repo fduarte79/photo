@@ -22,3 +22,8 @@ Fotometria é um recurso de mensuração da quantidade de luz queo incide sobre 
 + No centro, tons médios;
 + Quanto mais a direita, tons mais claro;
 + Deve-se evitar fotos com histogramas muito claro ou muito escuras;
+
+### Tipos de histogramas
++ Liminância
++ RGB
++ Imagens High Key (predominância de tons claros) e Low Key (predominância de tons escuros) 
