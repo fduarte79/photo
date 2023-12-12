@@ -1,6 +1,6 @@
 # 28 Composições Fotográficas
 
-1. [Regra dos Terços](https://www.google.com.br/search?q=rule+thirds+photography&sca_esv=590127073&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjcyM_C84mDAxX4rJUCHRXgABwQ_AUoAXoECAEQAw&biw=1916&bih=942&dpr=1)
+1. [*Rule of Thirds*](https://www.google.com.br/search?q=rule+thirds+photography&sca_esv=590127073&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjcyM_C84mDAxX4rJUCHRXgABwQ_AUoAXoECAEQAw&biw=1916&bih=942&dpr=1) (Regra dos Terços)
 2. [Regra de Ouro ou Proporção Áurea](https://www.google.com.br/search?q=%2B%22gold+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwiP67bB9YmDAxWBNbkGHeylD2kQ2-cCegQIABAA&oq=%2B%22gold+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1CZIVjwigFgvJABaABwAHgAgAHDAYgBqRCSAQQwLjE0mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=jVR4Zc_wJIHr5OUP7Mu-yAY&bih=942&biw=1916)
 3. [Enquadramento](https://www.google.com.br/search?q=%2B%22framed+composition%22%2Bphotography&tbm=isch&ved=2ahUKEwiro56l-ImDAxWOPbkGHSt_DDoQ2-cCegQIABAA&oq=%2B%22framed+composition%22%2Bphotography&gs_lcp=CgNpbWcQA1CdDVihPmCCRGgAcAB4AIABzAGIAdkQkgEGMC4xMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=d1d4ZeuLMI775OUPq_6x0AM&bih=942&biw=1916&hl=pt-BR)
 4. [Movimento]()
