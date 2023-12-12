@@ -14,6 +14,8 @@
 | Canon EOS 4000D  |
 
 ### [Fotometria](fotometria.md)
+### [Composição](composicao.md)
+### [Enquadramento](enquadramento.md)
 
 ### Links
 
