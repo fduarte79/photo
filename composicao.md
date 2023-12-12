@@ -1,12 +1,12 @@
-# Composição
+# 28 Composições Fotográficas
 
-+ [Regra dos Terços](https://www.google.com.br/search?q=rule+thirds+photography&sca_esv=590127073&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjcyM_C84mDAxX4rJUCHRXgABwQ_AUoAXoECAEQAw&biw=1916&bih=942&dpr=1)
-+ [Regra de Ouro ou Proporção Áurea]()
-+ [Enquadramento]()
-+ [Movimento]()
-+ [Simetria](https://www.google.com.br/search?q=rule+symmetry+photography&tbm=isch&ved=2ahUKEwjgwdXq84mDAxWHKLkGHVtoA6MQ2-cCegQIABAA&oq=rule+simetry+photography&gs_lcp=CgNpbWcQA1AAWABgAGgAcAB4AIABAIgBAJIBAJgBAKoBC2d3cy13aXotaW1n&sclient=img&ei=y1J4ZaCwDYfR5OUP29CNmAo&bih=942&biw=1916)
-+ [Radial]()
-+ [Sobreposição]()
-+ [HOrizontal]()
-+ [Vertical]()
-+ [Diagonal]()
+1. [Regra dos Terços](https://www.google.com.br/search?q=rule+thirds+photography&sca_esv=590127073&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjcyM_C84mDAxX4rJUCHRXgABwQ_AUoAXoECAEQAw&biw=1916&bih=942&dpr=1)
+2. [Regra de Ouro ou Proporção Áurea](https://www.google.com.br/search?q=%2B%22gold+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwiP67bB9YmDAxWBNbkGHeylD2kQ2-cCegQIABAA&oq=%2B%22gold+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1CZIVjwigFgvJABaABwAHgAgAHDAYgBqRCSAQQwLjE0mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=jVR4Zc_wJIHr5OUP7Mu-yAY&bih=942&biw=1916)
+3. [Enquadramento](https://www.google.com.br/search?q=%2B%22framed+composition%22%2Bphotography&tbm=isch&ved=2ahUKEwiro56l-ImDAxWOPbkGHSt_DDoQ2-cCegQIABAA&oq=%2B%22framed+composition%22%2Bphotography&gs_lcp=CgNpbWcQA1CdDVihPmCCRGgAcAB4AIABzAGIAdkQkgEGMC4xMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=d1d4ZeuLMI775OUPq_6x0AM&bih=942&biw=1916&hl=pt-BR)
+4. [Movimento]()
+5. [Simetria](https://www.google.com.br/search?q=rule+symmetry+photography&tbm=isch&ved=2ahUKEwjgwdXq84mDAxWHKLkGHVtoA6MQ2-cCegQIABAA&oq=rule+simetry+photography&gs_lcp=CgNpbWcQA1AAWABgAGgAcAB4AIABAIgBAJIBAJgBAKoBC2d3cy13aXotaW1n&sclient=img&ei=y1J4ZaCwDYfR5OUP29CNmAo&bih=942&biw=1916)
+6. [Radial](https://www.google.com.br/search?q=%2B%22radial+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwjHmI3O9YmDAxVxNbkGHQQUBFwQ2-cCegQIABAA&oq=%2B%22radial+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1DyCVjeE2CEHmgAcAB4AIABlQGIAZIHkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=qFR4ZcekC_Hq5OUPhKiQ4AU&bih=942&biw=1916)
+7. [Sobreposição](https://www.google.com.br/search?q=%2Bsuperimposed+%2Bphotography&tbm=isch&ved=2ahUKEwjj3aGE-ImDAxVPGbkGHb2ZDCsQ2-cCegQIABAA&oq=%2Bsuperimposed+%2Bphotography&gs_lcp=CgNpbWcQA1D8Elj5hQFgw4wBaABwAHgAgAGkAYgB7BOSAQQwLjE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Mld4ZeP8Js-y5OUPvbOy2AI&bih=942&biw=1916&hl=pt-BR)
+8. [HOrizontal](https://www.google.com.br/search?q=%2B%22horizontal+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwiOoaeG9omDAxUxM7kGHTVDDjsQ2-cCegQIABAA&oq=%2B%22horizontal+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1DIDFj-nwNghqUDaABwAHgAgAGkAYgBpQySAQQwLjEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=HlV4ZY6aA7Hm5OUPtYa52AM&bih=942&biw=1916)
+9. [Vertical](https://www.google.com.br/search?q=%2B%22vertical+lines+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwijvJPl9omDAxVFD7kGHcMUDgYQ2-cCegQIABAA&oq=%2B%22vertical+lines+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1CoC1iIFGCEHWgAcAB4AIABhAGIAecGkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=5FV4ZaO6OsWe5OUPw6m4MA&bih=942&biw=1916)
+10. [Diagonal](https://www.google.com.br/search?q=%2B%22diagonal+lines+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwil--vu9omDAxU3CLkGHaRpBlAQ2-cCegQIABAA&oq=%2B%22diagonal+lines+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1DIDFi4HGDNJ2gAcAB4AIABpgGIAcgJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=-VV4ZeWaEbeQ5OUPpNOZgAU&bih=942&biw=1916)
