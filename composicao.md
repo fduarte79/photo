@@ -11,6 +11,5 @@
 9. [Vertical](https://www.google.com.br/search?q=%2B%22vertical+lines+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwijvJPl9omDAxVFD7kGHcMUDgYQ2-cCegQIABAA&oq=%2B%22vertical+lines+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1CoC1iIFGCEHWgAcAB4AIABhAGIAecGkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=5FV4ZaO6OsWe5OUPw6m4MA&bih=942&biw=1916)
 10. [Diagonal](https://www.google.com.br/search?q=%2B%22diagonal+lines+rule%22+%2Bphotography&tbm=isch&ved=2ahUKEwil--vu9omDAxU3CLkGHaRpBlAQ2-cCegQIABAA&oq=%2B%22diagonal+lines+rule%22+%2Bphotography&gs_lcp=CgNpbWcQA1DIDFi4HGDNJ2gAcAB4AIABpgGIAcgJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=-VV4ZeWaEbeQ5OUPpNOZgAU&bih=942&biw=1916)
 
-Fonte:
-
-[28 Composition Techniques That Will Improve Your Photos - PetaPixel](https://petapixel.com/photography-composition-techniques/)
+## Fonte
++ [28 Composition Techniques That Will Improve Your Photos - PetaPixel](https://petapixel.com/photography-composition-techniques/)
