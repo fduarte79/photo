@@ -2,4 +2,4 @@
 
 ## Referências
 + [*Foreground Interest and Depth*](https://petapixel.com/photography-composition-techniques/#3_Foreground_Interest_and_Depth)
-+ [Exemplos encontrados no Google](https://www.google.com.br/search?q=%2Bsuperimposed+%2Bphotography&tbm=isch&ved=2ahUKEwjj3aGE-ImDAxVPGbkGHb2ZDCsQ2-cCegQIABAA&oq=%2Bsuperimposed+%2Bphotography&gs_lcp=CgNpbWcQA1D8Elj5hQFgw4wBaABwAHgAgAGkAYgB7BOSAQQwLjE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Mld4ZeP8Js-y5OUPvbOy2AI&bih=942&biw=1916&hl=pt-BR)
++ [Exemplos encontrados no Google](https://www.google.com.br/search?q=foreground+interest+and+depth+photography&sca_esv=590541752&hl=pt-BR&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiM_7HEzYyDAxW0kZUCHRDoDF8Q_AUoAXoECAEQAw&biw=1920&bih=945&dpr=1)
