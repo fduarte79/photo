@@ -39,3 +39,4 @@
 
 ## Fontes
 + [28 Composition Techniques That Will Improve Your Photos - PetaPixel](https://petapixel.com/photography-composition-techniques/)
++ [Composição em Fotografia - Armando Vernaglia Jr - Playlist no YouTube](https://www.youtube.com/playlist?list=PLNrlxqVunY8wEPrih48CFtpKV8tSkYQBl)
