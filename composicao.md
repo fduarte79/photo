@@ -27,6 +27,15 @@
 17. [Look for Particular Color Combinations](https://www.google.com.br/search?q=+Look+for+Particular+Color+Combinations+%2Bphotography&tbm=isch&ved=2ahUKEwj3uMTj0oqDAxXuBrkGHXgQD6IQ2-cCegQIABAA&oq=+Look+for+Particular+Color+Combinations+%2Bphotography&gs_lcp=CgNpbWcQA1DTFViTH2CfLGgAcAB4AIAB3QGIAfADkgEFMC4yLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=WbZ4ZbeoJu6N5OUP-KC8kAo&bih=942&biw=1916) (Olhando para uma combinação de cores em particular)
 18. [Rule of Space](https://www.google.com.br/search?q=rule+of+space+%2Bphotography&tbm=isch&ved=2ahUKEwi2xJPa1IqDAxVwBrkGHR7BAIwQ2-cCegQIABAA&oq=rule+of+space+%2Bphotography&gs_lcp=CgNpbWcQA1Dz5gNY4IYEYPqLBGgAcAB4AIABuwGIAdwEkgEDMC40mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Xrh4ZbadMvCM5OUPnoKD4Ag&bih=942&biw=1916) (Regra do espaço)
 19. [Left to Right Rule](https://www.google.com.br/search?q=Left+to+Right+Rule+%2Bphotography&tbm=isch&ved=2ahUKEwjnnYr91IqDAxUBNrkGHS0EC-0Q2-cCegQIABAA&oq=Left+to+Right+Rule+%2Bphotography&gs_lcp=CgNpbWcQA1C3GFi3GGDrJmgAcAB4AIAB4wGIAeQCkgEFMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=qLh4ZeepBIHs5OUPrYis6A4&bih=942&biw=1916) (Regra da esquerda para direita)
+20. [Balance Elements in the Scene](https://www.google.com.br/search?q=Balance+Elements+in+the+Scene+%2Bphotography&tbm=isch&ved=2ahUKEwj1jOiC1IqDAxVlDbkGHe41CPYQ2-cCegQIABAA&oq=Balance+Elements+in+the+Scene+%2Bphotography&gs_lcp=CgNpbWcQA1AAWABgjgpoAHAAeACAAXiIAXiSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=p7d4ZbWdKOWa5OUP7uugsA8&bih=942&biw=1916) (Balanço de elementos na cena)
+21. [Juxtaposition](https://www.google.com.br/search?q=Juxtaposition+%2Bphotography&tbm=isch&ved=2ahUKEwip-MXap4yDAxWirZUCHTjmBFgQ2-cCegQIABAA&oq=Juxtaposition+%2Bphotography&gs_lcp=CgNpbWcQA1C2C1i2C2CVE2gAcAB4AIABqgGIAcECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=n5V5ZemsIKLb1sQPuMyTwAU&bih=942&biw=1916) (Justaposição)
+22. []() ()
+23. []() ()
+24. []() ()
+25. []() ()
+26. []() ()
+27. []() ()
+28. []() ()
 
 ## Fontes
 + [28 Composition Techniques That Will Improve Your Photos - PetaPixel](https://petapixel.com/photography-composition-techniques/)
