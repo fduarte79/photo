@@ -33,4 +33,5 @@
 
 ## Fontes
 + [28 Composition Techniques That Will Improve Your Photos - PetaPixel](https://petapixel.com/photography-composition-techniques/)
++ [Ultimate Guide to Composition in Photography - By Brian Rueb - Iceland Photo Tours](https://iceland-photo-tours.com/articles/photography-techniques/ultimate-guide-to-composition-in-photography)
 + [Composição em Fotografia - Armando Vernaglia Jr - Playlist no YouTube](https://www.youtube.com/playlist?list=PLNrlxqVunY8wEPrih48CFtpKV8tSkYQBl)
