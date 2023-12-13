@@ -1,4 +1,4 @@
-# 28 Composições Fotográficas
+# Composições Fotográficas
 
 1. [*Foreground Interest and Depth*](https://www.google.com.br/search?q=%2Bsuperimposed+%2Bphotography&tbm=isch&ved=2ahUKEwjj3aGE-ImDAxVPGbkGHb2ZDCsQ2-cCegQIABAA&oq=%2Bsuperimposed+%2Bphotography&gs_lcp=CgNpbWcQA1D8Elj5hQFgw4wBaABwAHgAgAGkAYgB7BOSAQQwLjE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Mld4ZeP8Js-y5OUPvbOy2AI&bih=942&biw=1916&hl=pt-BR) (Interesse e profundidade em primeiro plano)
 2. [Frame Within the Frame](https://www.google.com.br/search?q=%22Frame+Within+the+Frame%22&tbm=isch&ved=2ahUKEwjql7u4k4qDAxX_M7kGHcqmBZgQ2-cCegQIABAA&oq=%22Frame+Within+the+Frame%22&gs_lcp=CgNpbWcQAzIHCAAQgAQQEzIGCAAQHhATOgQIABAeULkNWLgUYNIcaABwAHgAgAGXAYgBvAWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=73N4ZarkNP_n5OUPys2WwAk&bih=942&biw=1916) (Quadro dentro do quadro)
