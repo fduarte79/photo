@@ -15,8 +15,8 @@
 
 
 ### [Composição](composicao/composicao.md)
-[//]: # [Fotometria](fotometria.md)  
-[//]: # [Enquadramento](enquadramento.md)  
+<!-- ### [Fotometria](fotometria.md)  -->
+<!-- ### [Enquadramento](enquadramento.md)  -->
 
 ### Links
 
