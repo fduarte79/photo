@@ -13,9 +13,10 @@
 | Canon Rebel T100 |  22,3 x 14,9 mm (APS-C) | DIG!C 4+    | 18 MP     | EF, EF-S           | 100-6400 |   
 | Canon EOS 4000D  |
 
-### [Fotometria](fotometria.md)
+
 ### [Composição](composicao/composicao.md)
-### [Enquadramento](enquadramento.md)
+[//]: ### [Fotometria](fotometria.md)
+[//]: ### [Enquadramento](enquadramento.md)
 
 ### Links
 
