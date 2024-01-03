@@ -23,3 +23,7 @@
 + [Guia de Consulta Rápida - Canon Rebel T7](https://www.canon.com.br/download/bloco/conteudo/item/4139/uploadproduto905downloadeost7instructionmanualpt.pdf)
 + [Filmes](filmes.md)
 + [Biografias](biografias.md)
+
+#### Sites que compram fotos
++ [Eyeem](https://www.eyeem.com/)
++ [Alamy](https://www.alamy.com)  
